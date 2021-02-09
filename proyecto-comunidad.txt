@@ -3,3 +3,10 @@ Objetivos a realizar:
 - Aplicación o foro web que facilite la comunicación entre estudiantes
 - Accesibilidad a materiales de apoyo académico
 - Apoyo a docentes en clases online
+
+Problemáticas de la educación remota actual:
+- Poco desempeño y aprendizaje del alumnado
+- Clases virtuales ineficientes que intentan imitar el modelo de educación presencial
+- Sobrecarga de trabajo remoto
+- Problemas de sincronización
+- Aumento en el estrés de docentes y alumnos debido al cambio remoto
