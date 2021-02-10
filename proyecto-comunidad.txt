@@ -17,5 +17,3 @@ Por otro lado se pueden crear "salones de clase" donde los alumnos pueden discut
 
 Principios de usabilidad UX por Jesse James Garret:
 La cuarentena ocurrida en marzo del año 2020 nos ha puesto a todo mundo en hacke. En México específicamente hemos vivido multiples problemáticas en el sector salud, en la economía y en la educación, entre otras más.
-
-Este cambio solamente tiene propositos de aprendizaje para SSH
